@@ -38,11 +38,11 @@ npm run dev
 
 Med 
 
-````
+```
 #!/bin/bash
 
 # Stoppa om något fel inträffar
 set -e
 ```
-
 Som bas går det att skapa setup.sh filer för typ allt
+Addera bara de kommandon som behövs
