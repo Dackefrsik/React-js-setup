@@ -10,7 +10,7 @@ PROJECT_NAME="my-react-app"
 rm -rf $PROJECT_NAME
 
 # Skapa nytt React-projekt med Vite
-npm create vite@latest $PROJECT_NAME --template react
+npx create-vite@latest ../$PROJECT_NAME --template react --yes
 
 # Gå till projektmappen
 cd $PROJECT_NAME

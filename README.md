@@ -33,3 +33,16 @@ npm install
 ```
 npm run dev
 ```
+
+### Info
+
+Med 
+
+````
+#!/bin/bash
+
+# Stoppa om något fel inträffar
+set -e
+```
+
+Som bas går det att skapa setup.sh filer för typ allt
