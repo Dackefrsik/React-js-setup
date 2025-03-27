@@ -34,6 +34,13 @@ npm install
 npm run dev
 ```
 
+### Kommando
+
+Körs med följande kommando i gitbash på mappen som filen ligger i 
+```
+bash -x ./setup.sh
+```
+
 ### Info
 
 Med 
