@@ -19,17 +19,17 @@ cd React-js-setup
  ```
 ./setup.sh
 ```
-3. Gå till nya projektmappemn: 
+4. Gå till nya projektmappemn: 
 
 ```
 cd my-react-app
 ```
 
-4. Installera beroenden:
+5. Installera beroenden:
 ```
 npm install
 ```
-5. Starta utvecklingsservern: 
+6. Starta utvecklingsservern: 
 ```
 npm run dev
 ```
